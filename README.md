@@ -8,7 +8,6 @@ Energetic & Self-learner software engineer. Cares about having a clean and scala
 
 * 🌍  I'm based in Jeddah, Saudi Arabia
 * ✉️  You can contact me at [moh.alshehr@gmail.com](mailto:moh.alshehr@gmail.com)
-* 🧠  I'm learning nodeJs/expressJs
 * 🤝  I'm open to collaborating on Angular or Ionic Project
 
 ### Skills
@@ -42,4 +41,5 @@ Energetic & Self-learner software engineer. Cares about having a clean and scala
 
 <a href="http://www.github.com/moh4sa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moh4sa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/moh4sa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moh4sa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moh4sa" alt="moh4sa" /></a>
+
